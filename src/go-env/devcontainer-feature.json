@@ -1,6 +1,6 @@
 {
   "id": "go-env",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "Go Environment Integration",
   "description": "Self-healing environment fragment for official DevContainer Go feature integration",
   "documentationURL": "https://github.com/nikun/shellinator-reloaded",
